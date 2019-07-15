@@ -1,4 +1,4 @@
-var css = documbabeent.querySelector("h3");
+var css = document.querySelector("h3");
 var color1 = document.querySelector(".color1");
 var color2 = document.getElementById("color2");
 var body = document.getElementById("gradient");
